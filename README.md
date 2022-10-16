@@ -1,6 +1,13 @@
-# doctor_appointment
+# Doctor Appoinment App
+## [SLICING / UI ONLY]
 ![iPhone 13 Pro Max - 32 (1)](https://user-images.githubusercontent.com/113785858/196024839-2f8068f3-fb37-4a51-be9b-7d20854d7752.jpg)
-A new Flutter project.
+![iPhone 13 Pro Max - 34](https://user-images.githubusercontent.com/113785858/196025222-664e94a7-aa6c-42c2-addd-1c0fd0c14ee2.jpg)
+![iPhone 13 Pro Max - 33](https://user-images.githubusercontent.com/113785858/196025223-7b7b7d5a-42b4-4ac5-9239-4e50bce1b8fc.jpg)
+
+
+### Package use :
+- cupertino_icons
+- google_fonts
 
 ## Getting Started
 
